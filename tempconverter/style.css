@@ -1,0 +1,32 @@
+#converter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    font-size: 20px;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  select {
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 10px;
+    width: 200px;
+  }
+  
+  #output {
+    font-size: 20px;
+    margin-top: 10px;
+    color: white;
+  }
+  
